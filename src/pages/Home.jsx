@@ -1,4 +1,5 @@
 import PopularDestination from "../component/PopularDestination";
+import Services from "../component/Services";
 
 const Home = () => {
   return (
@@ -21,6 +22,7 @@ const Home = () => {
     </div>
 
     <PopularDestination />
+    <Services />
    </>
   );
 };

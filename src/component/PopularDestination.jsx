@@ -33,7 +33,7 @@ const destinations = [
 
 const PopularDestination = () => {
   return (
-    <div className="py-12 bg-gradient-to-b from-gray-100 to-gray-200">
+    <div className="py-12  bg-slate-50">
       <div className="container mx-auto px-4">
         <h3 className="mb-12 text-center font-extrabold text-4xl text-gray-800">
           Popular Destinations
