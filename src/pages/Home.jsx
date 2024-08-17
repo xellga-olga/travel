@@ -1,5 +1,8 @@
+import PopularDestination from "../component/PopularDestination";
+
 const Home = () => {
   return (
+   <>
     <div
       className="relative h-screen bg-cover bg-center"
       style={{ backgroundImage: "url('/images/hero.png')" }}
@@ -16,6 +19,9 @@ const Home = () => {
         </button>
       </div>
     </div>
+
+    <PopularDestination />
+   </>
   );
 };
 
