@@ -1,3 +1,4 @@
+import Clients from "../component/Clients";
 import PopularDestination from "../component/PopularDestination";
 import Services from "../component/Services";
 
@@ -23,6 +24,7 @@ const Home = () => {
 
     <PopularDestination />
     <Services />
+    <Clients />
    </>
   );
 };
