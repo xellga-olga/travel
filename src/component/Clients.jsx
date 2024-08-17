@@ -3,7 +3,7 @@ const testimonials = [
     name: "Yevhen Yevhen",
     image: "/public/images/testimonial1.jpg",
     text: "My trip to Budapest was unforgettable, thanks to the excellent service and seamless booking experience. I highly recommend it!",
-    location: "Budapest",
+    location: "Budapest, Hungary",
   },
   {
     name: "Alise Pla",
