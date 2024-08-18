@@ -13,7 +13,7 @@ const Gallery = () => {
   return (
     <div>
       <div
-        className="relative h-screen bg-cover bg-center h-96"
+        className="relative  bg-cover bg-center h-96"
         style={{ backgroundImage: "url('/images/hero.png')" }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-50 flex flex-col items-center justify-center">
