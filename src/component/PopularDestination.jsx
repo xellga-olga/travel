@@ -5,27 +5,27 @@ const destinations = [
     desc: "The City of Light draws millions of visitors every year with its unforgettable ambiance. Renowned for its rich history, stunning architecture, and iconic landmarks like the Eiffel Tower.",
   },
   {
-    image: "/public/images/destination2.webp",
+    image: "/images/destination2.webp",
     title: "Bali",
     desc: "A tropical paradise known for its beautiful beaches, vibrant culture, and stunning landscapes. Bali offers a perfect blend of relaxation, adventure, and spirituality.",
   },
   {
-    image: "/public/images/destination3.jpeg",
+    image: "/images/destination3.jpeg",
     title: "Tokyo",
     desc: "A bustling metropolis where tradition meets the future. Tokyo is known for its vibrant neighborhoods, delicious cuisine, and a unique blend of modern and ancient culture.",
   },
   {
-    image: "/public/images/destination4.webp",
+    image: "/images/destination4.webp",
     title: "New York City",
     desc: "The Big Apple is a global hub for finance, art, and entertainment. NYC is famous for its skyscrapers, Central Park, and a diverse cultural scene.",
   },
   {
-    image: "/public/images/destination5.webp",
+    image: "/images/destination5.webp",
     title: "Sydney",
     desc: "Australia's largest city is known for its stunning harbor, iconic Sydney Opera House, and vibrant outdoor lifestyle. Sydney is a gateway to Australia's unique wildlife and natural wonders.",
   },
   {
-    image: "/public/images/destination6.jpg",
+    image: "/images/destination6.jpg",
     title: "Budapest",
     desc: "Known as the 'Pearl of the Danube,' Budapest is famous for its historic architecture, thermal baths, and vibrant cultural scene. The city offers a unique blend of old-world charm and modern amenities.",
   },
